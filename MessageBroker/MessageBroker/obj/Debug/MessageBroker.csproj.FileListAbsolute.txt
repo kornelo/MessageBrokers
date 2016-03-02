@@ -1,0 +1,8 @@
+C:\Users\Dude\Desktop\Zacny\jjjjjjjjj\MessageBroker\MessageBroker\bin\Debug\MessageBroker.exe.config
+C:\Users\Dude\Desktop\Zacny\jjjjjjjjj\MessageBroker\MessageBroker\bin\Debug\MessageBroker.exe
+C:\Users\Dude\Desktop\Zacny\jjjjjjjjj\MessageBroker\MessageBroker\bin\Debug\MessageBroker.pdb
+C:\Users\Dude\Desktop\Zacny\jjjjjjjjj\MessageBroker\MessageBroker\obj\Debug\MessageBroker.csprojResolveAssemblyReference.cache
+C:\Users\Dude\Desktop\Zacny\jjjjjjjjj\MessageBroker\MessageBroker\obj\Debug\MessageBroker.exe
+C:\Users\Dude\Desktop\Zacny\jjjjjjjjj\MessageBroker\MessageBroker\obj\Debug\MessageBroker.pdb
+C:\Users\Dude\Desktop\Zacny\jjjjjjjjj\MessageBroker\MessageBroker\bin\Debug\RabbitMQ.Client.dll
+C:\Users\Dude\Desktop\Zacny\jjjjjjjjj\MessageBroker\MessageBroker\bin\Debug\RabbitMQ.Client.xml
